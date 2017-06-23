@@ -69,7 +69,7 @@ $(document).ready(function() {
   var times;
 
 // page1
-  $("#fransatan").click(function(){
+  $("#fransatan").hover(function(){
     $("#satan").toggle();
     $("#francis").toggle();
   });
